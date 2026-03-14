@@ -380,7 +380,7 @@ AWS_S3_BUCKET=nagrikseva-documents
 
 ## 📊 Impact Projections
 
-| Metric | Current Reality | With NagrikSeva |
+| Metric | Current Reality | With Nagrik_Seva |
 |---|---|---|
 | Citizens reachable | UMANG: 82M registered | **400M+** (WhatsApp + SMS + IVR) |
 | Languages served | MyScheme: 2 | **22** (fine-tuned) |
