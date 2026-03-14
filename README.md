@@ -374,7 +374,7 @@ AWS_S3_BUCKET=nagrikseva-documents
 | 📊 **PPT Submission** | 8-slide hackathon presentation | [Google Drive](https://drive.google.com/) |
 | 🏗 **Architecture Diagram** | High-res system architecture infographic | [Google Drive](https://drive.google.com/) |
 
-> 📂 **[Access Full Google Drive Folder →](https://drive.google.com/)** *(Contains all documentation, diagrams, demo video, and research)*
+> 📂 **[Access Full Google Drive Folder →](https://drive.google.com/drive/folders/1ChA3DklA5Zh0l9stxMPwuQiK4ulZ0o2A?usp=sharing)** *(Contains all documentation, diagrams, demo video, and research)*
 
 ---
 
